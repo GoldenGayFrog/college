@@ -1,9 +1,0 @@
-main => int i=1 => i<5 => (TRUE) 
-
-(TRUE)
-"Loyang %d\n", i => int i=0 => i<4 => (TRUE)
-
-(TRUE)
-"* 0 # x\n" => i++
-(FALSE)
-i++ for i<5
